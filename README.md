@@ -58,3 +58,14 @@ Untuk mengaksesnya gunakan URL: http://localhost/lab7_php_dasar/php_dasar.php?na
 ![PREDEFINE VARIABLE 2](https://user-images.githubusercontent.com/46867774/169668109-38d0f68a-79d2-4eb9-81f6-cc6e6d26aa7a.png)
 
 # Membuat Form Input
+
+Menggunakan ```<form method="post">```
+
+![FORM INPUT](https://user-images.githubusercontent.com/46867774/169668377-ebd9a7c8-bcdb-4b4b-a414-7126d7fbd813.png)
+
+Untuk mengaksesnya gunakan URL: http://localhost/lab7_php_dasar/form_input.php?nama=Fadhiil
+
+![FORM INPUT 2](https://user-images.githubusercontent.com/46867774/169668393-327aca7d-2d08-4f04-99ef-e87b8d324b26.png)
+
+# Operator
+
