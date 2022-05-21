@@ -77,9 +77,22 @@ Untuk mengaksesnya gunakan URL: http://localhost/lab7_php_dasar/form_input.php?n
 
 # Kondisi ```Switch```
 
+![KONDISI SWITCH](https://user-images.githubusercontent.com/46867774/169669441-ceaa4bfc-2a3e-4afa-90b5-43ed565bd8a7.png)
+
 # Perulangan ```for```
+
+![PERULANGAN FOR](https://user-images.githubusercontent.com/46867774/169669449-8127bedc-3e2b-4839-ac72-0f0e5453a759.png)
 
 # Perulangan ```while```
 
+![PERULANGAN WHILE](https://user-images.githubusercontent.com/46867774/169669546-a7f9d4fa-5063-4425-b775-18290ef4020b.png)
+
 # Perulangan ```do while```
+
+![PERULANGAN DO WHILE](https://user-images.githubusercontent.com/46867774/169669649-252e15cc-9c30-4a61-8380-84f62505dea7.png)
+
+# Pertanyaan & Tugas
+Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan.
+
+# Jawaban
 
