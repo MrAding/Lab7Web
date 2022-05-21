@@ -32,3 +32,22 @@ Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL
 
 # PHP Dasar
 Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat kode seperti berikut.
+
+![PHP Dasar](https://user-images.githubusercontent.com/46867774/169667447-b810949c-68ca-47bd-9c13-fa15c5ec863d.png)
+
+Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7_php_dasar/php_dasar.php
+
+![PHP Dasar 2](https://user-images.githubusercontent.com/46867774/169667472-c64655d8-6e59-49b9-9183-8468abb54014.png)
+
+# Variable PHP
+
+Menambahkan variable pada program.
+
+![VARIABLE](https://user-images.githubusercontent.com/46867774/169667648-55b7d06c-a979-48bc-8941-3ba74bf6af6f.png)
+
+Berikut adalah hasil outputnya.
+
+![VARIABLE 2](https://user-images.githubusercontent.com/46867774/169667702-5bdf464a-c1d7-414d-966d-a53757b69724.png)
+
+# Predefine Variable ```$_GET```
+
