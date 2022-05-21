@@ -69,3 +69,17 @@ Untuk mengaksesnya gunakan URL: http://localhost/lab7_php_dasar/form_input.php?n
 
 # Operator
 
+![OPERATOR](https://user-images.githubusercontent.com/46867774/169668594-1add7a54-a1eb-4383-8459-3b73042d942a.png)
+
+# Kondisi ```IF```
+
+![KONDISI IF](https://user-images.githubusercontent.com/46867774/169668780-f1876450-8f6d-4591-8675-f05161a820c8.png)
+
+# Kondisi ```Switch```
+
+# Perulangan ```for```
+
+# Perulangan ```while```
+
+# Perulangan ```do while```
+
