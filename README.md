@@ -51,3 +51,10 @@ Berikut adalah hasil outputnya.
 
 # Predefine Variable ```$_GET```
 
+![PREDEFINE VARIABLE](https://user-images.githubusercontent.com/46867774/169668049-c13c8006-a836-4fc8-bac1-c8f3eb366dda.png)
+
+Untuk mengaksesnya gunakan URL: http://localhost/lab7_php_dasar/php_dasar.php?nama=Fadhiil
+
+![PREDEFINE VARIABLE 2](https://user-images.githubusercontent.com/46867774/169668109-38d0f68a-79d2-4eb9-81f6-cc6e6d26aa7a.png)
+
+# Membuat Form Input
